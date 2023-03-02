@@ -1,4 +1,4 @@
-const Header = () => {
+const Index = () => {
     return(
         <div>
             <h1> CatGPT </h1>
@@ -7,4 +7,4 @@ const Header = () => {
     )
 }
 
-export default Header
+export default Index
