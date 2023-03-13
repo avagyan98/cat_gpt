@@ -1,13 +1,16 @@
 import './App.css';
-import Index from "./catGPT/header";
+import "./App.css";
+import Header from "./catGPT/header";
 import Footer from "./catGPT/footer";
+import Body from "./catGPT/body";
 
 function App() {
   return (
-    <>
-        <Index />
+    <div className="app">
+        <Header />
+        <Body />
         <Footer />
-    </>
+    </div>
   );
 }
 

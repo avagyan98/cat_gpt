@@ -1,0 +1,45 @@
+.footer {
+    background-color: #343541;
+    height: 200px;
+    /*overflow: hidden;*/
+    /*display: none;*/
+    padding-top: 600px;
+}
+
+.inputArea {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5em
+}
+
+.input {
+    width: 60%;
+    background-color: #40414F;
+    border: none;
+    color: #ececf1;
+    font-size: 1em;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.i {
+}
+
+.footerTextOne {
+    font-size: 0.7em;
+    text-align: center;
+    color: #757575;
+    font-style: italic;
+    padding: 0px 0.5em;
+    margin: 0.3em;
+}
+
+.footerTextTwo {
+    font-size: 0.7em;
+    text-align: center;
+    color: #757575;
+    font-style: italic;
+    padding: 0px 0.5em;
+    margin: 0.3em;
+}

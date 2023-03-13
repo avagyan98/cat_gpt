@@ -1,10 +1,12 @@
-const Index = () => {
+import "./index.css";
+
+const Header = () => {
     return(
-        <div>
-            <h1> CatGPT </h1>
-            <p> What if ChatGPT were a cat? </p>
+        <div className="header">
+            <h1 className="title"> CatGPT </h1>
+            <p className="titleText"> What if ChatGPT were a cat? </p>
         </div>
     )
 }
 
-export default Index
+export default Header
