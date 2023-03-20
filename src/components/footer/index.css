@@ -10,7 +10,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    margin-bottom: 0.5em
+    margin-bottom: 8px;
 }
 
 .input {
@@ -18,8 +18,8 @@
     background-color: #40414F;
     border: none;
     color: #ececf1;
-    font-size: 1em;
-    padding: 1em;
+    font-size: 16px;
+    padding: 16px;
     border-radius: 5px;
 }
 
@@ -27,19 +27,19 @@
 }
 
 .footerTextOne {
-    font-size: 0.7em;
+    font-size: 11px;
     text-align: center;
     color: #757575;
     font-style: italic;
-    padding: 0px 0.5em;
-    margin: 0.3em;
+    padding: 0px 8px;
+    margin: 5px;
 }
 
 .footerTextTwo {
-    font-size: 0.7em;
+    font-size: 11px;
     text-align: center;
     color: #757575;
     font-style: italic;
-    padding: 0px 0.5em;
-    margin: 0.3em;
+    padding: 0px 8px;
+    margin: 5px;
 }

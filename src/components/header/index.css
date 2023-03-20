@@ -1,7 +1,7 @@
 .header {
     background-color: #343541;
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     padding: 20px;
 }
 
@@ -11,7 +11,7 @@
 }
 
 .titleText {
-    font-size: 0.75em;
+    font-size: 12px;
     font-style: italic;
     margin: auto;
 }

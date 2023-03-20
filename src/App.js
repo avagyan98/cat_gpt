@@ -1,8 +1,8 @@
 import './App.css';
 import "./App.css";
-import Header from "./catGPT/header";
-import Footer from "./catGPT/footer";
-import Body from "./catGPT/body";
+import Header from "./components/header";
+import Footer from "./components/footer";
+import Body from "./components/body";
 
 function App() {
   return (
