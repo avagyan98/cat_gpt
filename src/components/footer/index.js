@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="footer">
                 <div className="inputArea">
                     <input className="input" type="text" placeholder="Type your message here"/>
-                    <i className="i"/>
+                    <button className="enterButton"/>
                 </div>
                 <div>
                     <p className="footerTextOne">
