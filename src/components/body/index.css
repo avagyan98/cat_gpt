@@ -1,0 +1,17 @@
+.body {
+    background-color: #444654;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 30px;
+}
+
+.image {
+    margin-left: 200px;
+}
+
+.chat {
+    margin-left: 100px;
+}
